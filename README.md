@@ -3,6 +3,8 @@
 
 codelab地址：[Build an App with Architecture Components Codelab](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html)
 
+[完整工程地址](https://github.com/yuxingxin/Architecture-Component-App-Finished)
+
 #### 各个包和类的描述
 
 ##### `data.network` package
